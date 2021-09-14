@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+table {
+  margin: 30px auto;
+}
+
+form {
+  margin: 30px auto;
+}
+
+td,
+th {
+  padding: 10px;
+}
